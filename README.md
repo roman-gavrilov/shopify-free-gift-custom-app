@@ -3,6 +3,8 @@ Shopify custom app that adds selected free-gift products to cart when customer a
 
 ![Screenshot_5](https://user-images.githubusercontent.com/72150923/171480305-6538d580-b63b-42ee-ad58-4a62e8591bd0.png)
 ![Screenshot_1](https://user-images.githubusercontent.com/72150923/171480320-001265d6-15ec-40fb-8431-43cd5c81801d.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72150923/171481076-f4757c80-2019-4fa8-bc87-010e429d5863.png)
+
 
 Author: Roman Gavrilov <br>
 Version: 1.0
