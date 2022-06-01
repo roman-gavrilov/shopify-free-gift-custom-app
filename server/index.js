@@ -12,7 +12,7 @@ import mongoose from "mongoose";
 import cors from "cors";
 
 const Schema = mongoose.Schema;
-mongoose.connect('mongodb+srv://shopify-star:freelancer5566@cluster0.etg5dv5.mongodb.net/checkout_free_products',{
+mongoose.connect('mongodb+srv://xxxxx/checkout_free_products',{
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
